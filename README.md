@@ -1,3 +1,4 @@
+Medium: https://becominghuman.ai/real-time-finger-detection-1e18fea0d1d4
 # finger-detection
 The scripts are developed using Python 2.7 and OpenCV 3.2.0
 
